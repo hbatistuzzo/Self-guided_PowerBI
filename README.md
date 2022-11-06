@@ -30,3 +30,27 @@ Creating a dashboard.
 - So change it duh!
 - With a clustered column chart, now we need some additional formatting: font size, style etc
 - Bear in mind that the x-axis is ordered by total sales, but we want it by year: 3 dots --> sort by --> etc. Also reverse the order.
+
+---
+
+- We want to see the total sales by state and if the sales are above or below the average.
+	- let's add the average to the existing graph. It's the lens in Visualizations panel. We now see the above or below _by_ _year_. 2019 was the only year above average.
+
+---
+
+- Now we need the cost of vehicle delivery by maker. A pie chart will do nicely.
+
+---
+
+- Cost of labor by State
+	- Can be seen as a map.
+	- Make sure that on the Data tab the column of states has indeed that data category (otherwise viz wont work). Use the column tools in ribbon.
+
+---
+
+- General total sales and Matrix of sales
+	- the card item is adequate for a single information: the sum of all sales
+	- a matrix table will be useful by detailing (cost of delivery + cost + sales) per maker
+
+
+
