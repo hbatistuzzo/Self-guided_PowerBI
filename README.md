@@ -52,5 +52,10 @@ Creating a dashboard.
 	- the card item is adequate for a single information: the sum of all sales
 	- a matrix table will be useful by detailing (cost of delivery + cost + sales) per maker
 
+---
+
+With the formatting done, it can now be published in the workspace of powerBI.
+Does this work? https://app.powerbi.com/groups/me/reports/8ef65a14-7b2a-4392-bf5f-347172502a5e/ReportSection
+
 
 
