@@ -19,6 +19,7 @@ DataScienceAcademy has some courses on Data Analysis using PowerBI:
 	- DAX Studio 3.0.5
 	- Bravo BI 1.0.1 (1.0.8381.30060)
 - Microsoft SQL Server Management Studio (SSMS) 18.12.1
+- Azure Data Studio 1.40.1
 - Tableau 2022.3
 ---
 
