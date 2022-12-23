@@ -14,9 +14,6 @@
 	- Microsoft Power BI for Data Science, Version 2.0 - Workload: 72h - COMPLETE 🤘
 	- Advanced Power BI for Data Analysis with DAX - Workload: 70h - In Progress...
 
-
-
-
 # Technologies:
 - PowerBI
 	- DAX Studio 3.0.5
@@ -88,5 +85,11 @@ How handy! https://app.powerbi.com/groups/me/reports/8ef65a14-7b2a-4392-bf5f-347
      <img align="center" alt="hh" src="images/howhandy.png" />
 </div>
 
+---
+---
+---
 
+# Advanced Power BI for Data Analysis with DAX
 
+<img align="center" alt="geral" src="images/geral.png" />
+-
