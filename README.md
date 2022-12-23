@@ -6,11 +6,11 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/Self-guided_PowerBI)
 
 > __Warning__  In Progress!
-<p align="right"><img src="images/18689183.png" width="40% "alt="Logo"></p>
+<p align="right"><img src="images/18689183.png" width="20% "alt="Logo"></p>
 
 # Project objective
 
-DataScienceAcademy has some courses on Data Analysis using PowerBI:
+- DataScienceAcademy has some courses on Data Analysis using PowerBI:
 	- Microsoft Power BI for Data Science, Version 2.0 - Workload: 72h - COMPLETE 🤘
 	- Advanced Power BI for Data Analysis with DAX - Workload: 70h - In Progress...
 
