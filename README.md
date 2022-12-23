@@ -6,15 +6,20 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/Self-guided_PowerBI)
 
 > __Warning__  In Progress!
-<p align="right"><img src="images/18689183.png" width="100% "alt="Logo"></p>
 
 # Project objective
+DataScienceAcademy has some courses on Data Analysis using PowerBI:
+	- Microsoft Power BI for Data Science, Version 2.0 - Workload: 72h - COMPLETE 🤘
+	- Advanced Power BI for Data Analysis with DAX - Workload: 70h - In Progress...
+<p align="right"><img src="images/18689183.png" width="100% "alt="Logo"></p>
 
 
 # Technologies
 - PowerBI
 	- DAX Studio 3.0.5
 	- Bravo BI 1.0.1 (1.0.8381.30060)
+- Microsoft SQL Server Management Studio (SSMS) 18.12.1
+- Tableau 2022.3
 ---
 
 4 kinds of Data Analysis:
