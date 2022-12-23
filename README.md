@@ -1,5 +1,22 @@
 # Self-guided_PowerBI
- 
+
+![GitHub top language](https://img.shields.io/github/languages/top/hbatistuzzo/Self-guided_PowerBI)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hbatistuzzo/Self-guided_PowerBI)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/Self-guided_PowerBI)
+![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/Self-guided_PowerBI)
+
+> __Warning__  In Progress!
+<p align="right"><img src="images/18689183.png" width="100% "alt="Logo"></p>
+
+# Project objective
+
+
+# Technologies
+- PowerBI
+	- DAX Studio 3.0.5
+	- Bravo BI 1.0.1 (1.0.8381.30060)
+---
+
 4 kinds of Data Analysis:
 
 	- Descriptive: what happened
