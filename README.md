@@ -91,5 +91,21 @@ How handy! https://app.powerbi.com/groups/me/reports/8ef65a14-7b2a-4392-bf5f-347
 
 # Advanced Power BI for Data Analysis with DAX
 
+Data that is being used in a Client Application is usually stored in an OLTP System (e.g. SQL Server). However, to create solutions for Data Warehouses or Business Intelligence,
+this data is usually transfered to an OLAP (OnLine Analytic Processing) System (e.g. Azure Anallysis Services).
 <img align="center" alt="geral" src="images/geral.png" />
+
+- OLTP (OnLine Transaction Processing)
+	- Management of transactional data (enrollment, payments, etc) with references to other data (students, teachers, courses, etc.)
+		- The former refers to inputs (usually organized by time). The latter refers to dimensions.
+		- Thus we usually group the former by the latter.
+	- A lot of common users (those who feed the transactional system), highly normalized (i.e. reduced redundancy), updatable, tabular. Queries to access thousands of registries.
+	- Challenges:
+		- Might not be adequate to manipulate big volumes of data
+		- Might require a lot of processing power (due to the system being highly normalized)
+		- Storage of excessive data or by indeterminate timespan might lower the performance of queries.
+- OLAP (OnLine Analytic Processing)
+	- Performance is the name of the game, so it doesn't need to be normalized.
+
+
 -
